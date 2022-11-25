@@ -64,7 +64,7 @@ class DraftDocumentItemState extends DocumentItemState {
     }
 
     public delete(): void {
-        console.log('Document was deleted')
+        console.log('Document was deleted');
     }
 }
 
